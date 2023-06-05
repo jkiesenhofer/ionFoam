@@ -1,0 +1,3 @@
+ionFoam.C
+
+EXE = $(FOAM_APPBIN)/ionFoam
